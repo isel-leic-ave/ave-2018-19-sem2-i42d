@@ -1,0 +1,6 @@
+
+Após compilar, na linha de comandos dentro da diretoria bin/Degug fazer:
+
+// ILDASM
+ildasm /text Aula08-09.exe > dump.il
+
