@@ -1,0 +1,10 @@
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/AulasPrep/Semana 4/Aula 10/AssemblyLoading/bin/Debug/AssemblyLoading.exe
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/AulasPrep/Semana 4/Aula 10/AssemblyLoading/bin/Debug/AssemblyLoading.pdb
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/AulasPrep/Semana 4/Aula 10/AssemblyLoading/obj/x86/Debug/AssemblyLoading.csproj.CoreCompileInputs.cache
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/AulasPrep/Semana 4/Aula 10/AssemblyLoading/obj/x86/Debug/AssemblyLoading.exe
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/AulasPrep/Semana 4/Aula 10/AssemblyLoading/obj/x86/Debug/AssemblyLoading.pdb
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/AulasPrep/Semana 4/Aula 11 e 12/AssemblyLoading/bin/Debug/AssemblyLoading.exe
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/AulasPrep/Semana 4/Aula 11 e 12/AssemblyLoading/bin/Debug/AssemblyLoading.pdb
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/AulasPrep/Semana 4/Aula 11 e 12/AssemblyLoading/obj/x86/Debug/AssemblyLoading.csproj.CoreCompileInputs.cache
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/AulasPrep/Semana 4/Aula 11 e 12/AssemblyLoading/obj/x86/Debug/AssemblyLoading.exe
+/home/nuno/Nuno/ISEL/Ensino/Ano 18-19/Verao/AVE/LI42D/AulasPrep/Semana 4/Aula 11 e 12/AssemblyLoading/obj/x86/Debug/AssemblyLoading.pdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4C965935-9789-4288-BF75-5189DF4676A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Load.cs">
+    <Files>
+      <File FileName="TypeManipulation.cs" Line="12" Column="28" />
+      <File FileName="Load.cs" Line="71" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AssemblyLoading PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
