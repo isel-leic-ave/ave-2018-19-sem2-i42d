@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6CC75962-ECEF-43A4-B152-DF5A55F6F587}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ValidatorAttribute.cs">
+    <Files>
+      <File FileName="ValidatorAttribute.cs" Line="22" Column="2" />
+      <File FileName="Exercicio7.cs" Line="55" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exercicios PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
