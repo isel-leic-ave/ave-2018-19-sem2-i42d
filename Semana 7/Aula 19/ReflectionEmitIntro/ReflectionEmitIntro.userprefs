@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0C3E6DFF-13AE-4B5F-807D-F7D6DA48C6FF}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReflectionEmitIntro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReflectionEmitIntro.cs">
+    <Files>
+      <File FileName="ReflectionEmitIntro.cs" Line="63" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
