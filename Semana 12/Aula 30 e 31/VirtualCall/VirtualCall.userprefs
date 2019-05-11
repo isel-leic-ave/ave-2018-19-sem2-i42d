@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{1E06C9C1-BCFF-4DDC-AAB7-F462B18F3B40}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1-Virtual Call problems/IL code/CallVirt_NullReferenceVerification.il">
+    <Files>
+      <File FileName="2-Virtual-Call/VirtualCall1.cs" Line="1" Column="1" />
+      <File FileName="2-Virtual-Call/VirtualCall.cs" Line="25" Column="29" />
+      <File FileName="2-Virtual-Call/CIL/InstanceMethodsWithValidThis.il" Line="80" Column="68" />
+      <File FileName="2-Virtual-Call/CIL/InstanceMethodsWithValidThis1.il" Line="109" Column="21" />
+      <File FileName="1-Virtual Call problems/VirtualCallRecursive.cs" Line="38" Column="9" />
+      <File FileName="1-Virtual Call problems/IL code/VirtualCallRecursiveInfiniteLoop.il" Line="1" Column="1" />
+      <File FileName="1-Virtual Call problems/IL code/CallVirt_NullReferenceVerification.il" Line="135" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VirtualCall PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
