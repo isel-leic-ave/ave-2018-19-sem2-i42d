@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1B6E5D5A-C973-4D1E-AB03-A2EB576E73BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewSlot.cs">
+    <Files>
+      <File FileName="NewSlot.cs" Line="57" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NewSlot PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
