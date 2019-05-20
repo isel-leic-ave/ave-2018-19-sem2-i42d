@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{96723146-4789-44A8-B1D3-EFECC9FA9B6B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demos/Demo 03/Del2.cs">
+    <Files>
+      <File FileName="Demos/Demo 03/Del1.cs" Line="55" Column="21" />
+      <File FileName="Demos/Demo 03/Del2.cs" Line="31" Column="25" />
+      <File FileName="Demos/Demo 03/Del3.cs" Line="97" Column="33" />
+      <File FileName="Demos/Demo 03/Del4.cs" Line="5" Column="1" />
+      <File FileName="Demos/Demo 03/AnonymousDelegate.cs" Line="4" Column="1" />
+      <File FileName="Demos/Demo 04/Variance.cs" Line="45" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Delegates PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

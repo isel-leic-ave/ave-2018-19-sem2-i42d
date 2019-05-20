@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{104CCC6B-DBAB-4147-AF8D-7776C77FA6D3}|Default">
+  <MonoDevelop.Ide.ItemProperties.LazyEnumerators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnumeratorsLazyYield.cs">
+    <Files>
+      <File FileName="EnumeratorsEager.cs" Line="19" Column="29" />
+      <File FileName="EnumeratorsLazy.cs" Line="28" Column="41" />
+      <File FileName="EnumeratorsLazyYield.cs" Line="35" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
