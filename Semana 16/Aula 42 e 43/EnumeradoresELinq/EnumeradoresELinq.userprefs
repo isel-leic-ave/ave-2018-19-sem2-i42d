@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A3E845D3-5B1F-4B3B-8263-6826E15EBB4D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtensionMethods/Program.cs">
+    <Files>
+      <File FileName="ExtensionMethods/Program.cs" Line="31" Column="19" />
+      <File FileName="ExtensionMethods/ExtensionMethods.cs" Line="23" Column="38" />
+      <File FileName="LINQ/ExtensionMethods.cs" Line="21" Column="17" />
+      <File FileName="LINQ/CustomersLINQ.cs" Line="12" Column="1" />
+      <File FileName="LINQ/CustomersWithoutLINQ.cs" Line="24" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EnumeradoresELinq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

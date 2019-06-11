@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeradoresELinq", "EnumeradoresELinq.csproj", "{A3E845D3-5B1F-4B3B-8263-6826E15EBB4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E845D3-5B1F-4B3B-8263-6826E15EBB4D}.Debug|x86.ActiveCfg = Debug|x86
+		{A3E845D3-5B1F-4B3B-8263-6826E15EBB4D}.Debug|x86.Build.0 = Debug|x86
+		{A3E845D3-5B1F-4B3B-8263-6826E15EBB4D}.Release|x86.ActiveCfg = Release|x86
+		{A3E845D3-5B1F-4B3B-8263-6826E15EBB4D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
